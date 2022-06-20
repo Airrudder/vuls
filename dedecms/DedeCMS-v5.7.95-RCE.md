@@ -1,5 +1,3 @@
-[toc]
-
 # DedeCMS v5.7.95 RCE
 
 Dedecms official website：https://www.dedecms.com/download。
